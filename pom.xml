@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.feign</groupId>
-	<artifactId>FeignClientDemo</artifactId>
+	<artifactId>FeignClientDemoAndMSSQLFunctionQueries</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FeignClientDemo</name>
 	<description>Feign Client is used as Rest Template</description>
